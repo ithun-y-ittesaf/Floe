@@ -1,0 +1,10 @@
+build/
+bin/
+lib/*.a
+lib/*.lib
+*.o
+*.obj
+.cache/
+compile_commands.json
+.vscode/
+.idea/
